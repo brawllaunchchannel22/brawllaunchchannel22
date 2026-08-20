@@ -1,26 +1,28 @@
-```text
-                +@@@@@@@@@@@@@@@@@@@=                  brawllaunchchannel22@github
-           -+%@@**++===:-=++=+==++=@@@@@=              ---------------------------
-         +@@*+=::-+=:-:==---::--====-@@@@@@=           OS: ................. Linux Mint
-       +@@:=-.+--::-=-..::::.+*=--++:-:.=-@@=         
-       @@@+:=+=*@+---==:-+:-=:-+.:--=.--:::%@+         Role: ............... Developer & Modeler
-       *=:#+*+@@@@@@@@@@#**+**+====----::.=*@@         IDE: ................ VS Code, IntelliJ IDEA
-      :#:+@@=-::::::.::---+=-:::::::.-=-+-:-%%         
-       @-*:++----:+%@+=-=*#+--::.:-+@@@#-==%@@@        Languages.Code: ..... Java, Python
-       -+=*##=--+:-=-.=:===+.:::=-:=+-**--@=@@@        Languages.Web: ...... HTML, CSS
-        %*.**.--.:++++--#*+=-.::...*-+::--#*@@:        Languages.Real: ..... Deutsch, English
-        -*@@+::.-+-=+@@*#*+-.:.::::--:=:++@@@#         
-          -@@-=-=#@%===--=**+*#%#+:.-==@#@.            Hobbies.Tech: ....... Coding, Linux, Modding
-           =@@#-%@@@+.=+-:-.-=#%#=.-:%@#:              Hobbies.Real: ....... Model Trains 🚂
-             :#@=:#*:-*##%#=:.-#@%*==*##+              
-               #%++=--+******=-.--=*-#-.*-             Contact & Links:
-        :-++==%@#++-:-====-===++++==:==-+@@@**%#==-    YouTube: ............ https://www.youtube.com/@BLC2022
-   =#*=+=+=--+@%=--::.......-=-:.--:.::---#+=%@@##%=:. GitHub: ............. brawllaunchchannel22
- ..+-=+++=--.+@=.:::....:--:........:-::+@%-==.=-:*#*+ Status: ............. Always building cool stuff 🚀
-```
+# brawllaunchchannel22
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brawllaunchchannel22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brawllaunchchannel22&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### Developer & Modeler 🚂
+
+---
+
+| | |
+|---|---|
+| **OS** | Linux Mint |
+| **IDE** | VS Code, IntelliJ IDEA |
+| **Languages (Code)** | Java, Python |
+| **Languages (Web)** | HTML, CSS |
+| **Languages (Real)** | Deutsch, English |
+
+### Hobbies
+- 💻 Coding, Linux, Modding
+- 🚂 Model Trains
+
+### Currently Building
+Feraniaturland 🚂 — Fanprojekt mit HTML-Audioplayer
+
+---
+
+### Contact & Links
+[![YouTube](https://img.shields.io/badge/YouTube-@BLC2022-red?logo=youtube)](https://www.youtube.com/@BLC2022)
+[![GitHub](https://img.shields.io/badge/GitHub-brawllaunchchannel22-black?logo=github)](https://github.com/brawllaunchchannel22)
+
+**Status:** Always building cool stuff 🚀
